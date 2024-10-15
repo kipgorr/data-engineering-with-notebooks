@@ -1,5 +1,9 @@
 name: snowflake-demo
-
 dependencies:
+  - altair=*
+  - matplotlib=*
+  - numpy=*
+  - pandas=*
   - pip=
+  - scipy=*
   - snowflake=*
