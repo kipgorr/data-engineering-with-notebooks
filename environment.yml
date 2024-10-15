@@ -1,10 +1,5 @@
 name: snowflake-demo
 
 dependencies:
-  - python=3.9
-  - pip
-  - pip:
-    # Snowflake
-    - snowflake-cli-labs
-    - snowflake-snowpark-python
-    - snowflake
+  - pip=
+  - snowflake=*
